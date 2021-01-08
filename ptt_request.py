@@ -1,4 +1,4 @@
-#抓取 PTT 八卦版 的網頁原始碼(HTML)
+#抓取 PTT python 的網頁原始碼(HTML)
 import urllib.request as req
 def getData(url):
     #url="https://www.ptt.cc/bbs/python/index.html"
